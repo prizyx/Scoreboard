@@ -187,7 +187,7 @@ public class myJFrame extends javax.swing.JFrame {
                 hafta.takim1 = arrOfLine[1];
                 hafta.takim2 = arrOfLine[2];
                 hafta.skor1 = arrOfLine[3];
-                hafta.skor2 = arrOfLine[3];
+                hafta.skor2 = arrOfLine[4];
 
                 haftalar.add(hafta);
 
